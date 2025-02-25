@@ -37,12 +37,14 @@ body::before {
 }
 
 a {
-  color: #18d26e;
+  color: #18d26e; 
+  /** color: #0a71f0; */
   text-decoration: none;
 }
 
 a:hover {
   color: #35e888;
+  /**color: #065cbf; */
   text-decoration: none;
 }
 
